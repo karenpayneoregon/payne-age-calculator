@@ -1,5 +1,7 @@
 # Calculate the age of person
 
+Provides simple method to get a person's age
+
 ```csharp
 using PayneAgeCalculator.Classes;
 using PayneAgeCalculator.Models;
@@ -40,3 +42,7 @@ Results
 66 years 3 months 8 days 8:47 AM
 66 years 3 months 8 days 8:47:50
 ```
+
+# NuGet package
+
+:small_orange_diamond: [Location](https://www.nuget.org/packages/PayneAgeCalculator/)
